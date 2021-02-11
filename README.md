@@ -1,6 +1,4 @@
 ### Hi there 👋
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on WebApps and Cloud
 - 🌱 I’m currently learning quantum computing
 - 👯 I’m looking to collaborate on Opensource
